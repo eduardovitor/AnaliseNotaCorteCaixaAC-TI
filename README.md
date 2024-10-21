@@ -43,3 +43,5 @@ O projeto seguirá as fases do Data Analytics Lifecycle:
 ## Resultados
 
 A análise completa está presente no arquivo <code>.ipynb</code>, que pode ser visualizada no próprio github. Além disso, a análise pode ser visualizada na ferramenta Public Tableau por meio de um dashboard interativo, segue o link: https://public.tableau.com/app/profile/eduardo.vitor7126/viz/AnaliseNotaCorteCaixaAC-TBN-TI-2024/Dashboard
+
+![alt text](img/distribuicao_pct_notas.png)
