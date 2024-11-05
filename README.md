@@ -13,6 +13,11 @@ Link DOU: https://www.in.gov.br/web/dou/-/edital-n-9/2024/nm-de-05-de-agosto-de-
 | belohorizonte     |    40    |
 |  manaus    |   39      |
 
+## Tecnologias usadas
+
+- Python (Pandas, Matplotlib)
+- Tableau
+
 ## Perguntas a serem respondidas pela análise
 
 - Qual a distribuição de notas dos aprovados por polo?
