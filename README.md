@@ -3,7 +3,9 @@
 ## Objetivo
 
 Extrair os dados das notas dos aprovados no concurso Caixa para o cargo TBN-TI (AC) do Diário Oficial da União e deixá-los prontos para análise. Por fim, analisar os dados e trazer insights relevantes sobre as notas. 
-Link DOU: https://www.in.gov.br/web/dou/-/edital-n-9/2024/nm-de-05-de-agosto-de-2024-576447662
+Observação: a análise não inclui os dados do Rio Grande do Sul, porque foi realizada uma prova distinta para esse polo. Link DOU: https://www.in.gov.br/web/dou/-/edital-n-9/2024/nm-de-05-de-agosto-de-2024-576447662. 
+
+![](img/logo_caixa.png)
 
 ## Formato de saída dos dados
 
@@ -12,11 +14,6 @@ Link DOU: https://www.in.gov.br/web/dou/-/edital-n-9/2024/nm-de-05-de-agosto-de-
 | recife     |  43       |
 | belohorizonte     |    40    |
 |  manaus    |   39      |
-
-## Tecnologias usadas
-
-- Python (Pandas, Matplotlib)
-- Tableau
 
 ## Perguntas a serem respondidas pela análise
 
